@@ -1,5 +1,5 @@
 # Speaking Practice Through Roleplaying AI
-**Demonstration Video URL** :  https://youtu.be/tJ-JmxiTZIU
+**Demonstration Video URL** :  https://youtu.be/8xsz1ERqUc4
 
 **Description** : Used a FastAPI web server that supports an interactive role-playing application for practicing conversational English. It integrates OpenAI's GPT models and Whisper for voice recognition, and it is structured to handle various role-play scenarios where users can practice real-world interactions, such as ordering food or going through immigration.
 Furthermore, Users are given specific missions to complete while practicing, allowing users to finish scenarios by accomplishing these tasks. When it comes to Further fine-tuning, I used training data generated through simulated conversations between two AI agents acting out a scenario so that the model performance well within the designated context.
